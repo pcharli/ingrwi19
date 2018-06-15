@@ -10,3 +10,9 @@ main {
     padding: 8px;
     border-radius: 5px;
 }
+.search_form {
+    width: 25%;
+}
+.search_form label {
+    display: none;
+}
