@@ -1,1 +1,1 @@
-alert("yahoo");
+alert("yahoo, nous sommes vendredi");
