@@ -1,17 +1,22 @@
 h1 {
-    color: red;
+    color: geen;
+}
+main::before {
+    content: 'version1';
+    background-color: yellow;
 }
 main {
-    max-width: 80%;
+    max-width: 60%;
     margin: auto;
+    font-family: arial;
 }
 .box_services {
-    border: 1px solid black;
+    border: 1px solid rgb(231, 17, 17);
     padding: 8px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 .search_form {
-    width: 25%;
+    width: 55%;
 }
 .search_form label {
     display: none;
