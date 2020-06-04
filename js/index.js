@@ -1,4 +1,4 @@
-alert("yahoo, nous sommes jeudi")
+alert("yahoo, nous sommes mercredi")
 
 let search_form = document.querySelector(".search_form")
 
